@@ -1,4 +1,4 @@
-Links to papers awarded the [Most Influential POPL Paper Award][popl-award] by the [ACM SIGPLAN][].  **Pull requests welcome!**
+Links to papers awarded the [Most Influential POPL Paper Award][popl-award] by the [ACM SIGPLAN][sigplan].  **Pull requests welcome!**
 
 [sigplan]: http://www.sigplan.org/
 [popl-award]: http://www.sigplan.org/Awards/POPL/
